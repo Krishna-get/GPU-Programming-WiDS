@@ -68,7 +68,7 @@ Focus on:
 
 ##  **Week 1 Assignment (Summary)**
 
-Your full assignment instructions are in `assignment.md`.
+Your full assignment instructions are in `assignment.pdf`.
 Here is a preview of what you will do:
 
 ### **Task 1 — Identify a GPU-Accelerable Problem**
