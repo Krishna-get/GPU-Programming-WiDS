@@ -126,10 +126,3 @@ week1/
  └── cpu_baseline-<name>-<task>.py   # optional until Week 3
 ```
 
-
-## **Optional Extra Resources**
-
-* “Even Easier Introduction to CUDA” — NVIDIA Blog
-  [https://developer.nvidia.com/blog/even-easier-introduction-cuda/](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
-* “How GPUs Work” — Stanford CME193 notes
-
